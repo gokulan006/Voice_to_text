@@ -1,3 +1,3 @@
-whisper
+openai-whisper
 numpy
 torch
